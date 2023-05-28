@@ -1,0 +1,24 @@
+.bg-warning {
+    background-color: #000000!important;
+}
+.banner-background{
+    position: fixed;
+    top: 0;     
+}
+@media only screen and ( max-width: 600px){
+
+    .dp-movil{
+       display: block!important;
+    }  
+    
+    #carouselExampleIndicators{
+        height: 480px;
+    }
+
+    .dp-lg{
+        display: none!important;
+    }
+
+}
+
+
